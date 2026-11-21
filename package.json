@@ -1,0 +1,16 @@
+{
+  "name": "dileep-gaming-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DILEEP GAMING Tournament Android app",
+  "scripts": {
+    "copy-web": "node scripts/copy-web.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.2.1",
+    "@capacitor/core": "6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "6.2.1"
+  }
+}
